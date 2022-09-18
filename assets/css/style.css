@@ -1,0 +1,78 @@
+#tname{
+    width:500px;
+}
+    
+
+#tdescription {
+    width: 500px;
+    height: 75px;
+    
+}
+
+#assignedto {
+    width: 500px;
+}
+
+div {
+    margin-bottom: 50px;
+   margin-left: 100px;
+  }
+#addtask {
+    background-color: white;
+    font: white;
+    width: 250px;
+    font-weight: bold;
+
+}
+
+
+
+
+#id1 {
+    margin-bottom: 50px;
+    margin-left: 100px;
+    
+    width: 500px;
+    text-align: left;
+    font-weight: bold;
+}
+ #id2 {
+        margin-bottom: 50px;
+        margin-left: 100px;
+        height: 75px;
+         width: 100px;
+         text-align: left;
+         font-weight: bold;
+       }
+#id3 {
+        
+        margin-left: 100px;
+        
+         width: 100px;
+         text-align: right;
+         font-weight: bold;
+       }
+
+#id4 {
+       margin-left: 900px;
+       width: 250px;
+        text-align: left;
+        font-weight: bold;
+      }
+
+      h2{
+        margin-left: 100px;
+        margin-bottom: 50px;
+      }
+
+
+div1 {
+    margin-left: 50px;
+}
+
+
+
+
+
+
+
